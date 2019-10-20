@@ -1,0 +1,10 @@
+body {
+	background-color: ghostwhite;
+}
+
+#title {
+	font-family: cursive;
+	font-style: italic;
+	color: #667b8a;
+	text-align: center;
+}
