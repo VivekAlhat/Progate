@@ -1,1 +1,3 @@
-# Progate
+# Progate Study
+
+Progate Meetup 
