@@ -48,7 +48,7 @@ li {
 }
 
 .contents {
-	height: 500px;
+	height: 400px;
 }
 
 span {
@@ -68,12 +68,35 @@ span {
 .items {
 	float: left;
 	margin: 20px;
+	padding-top: 50px;
+}
+
+.items p {
+	text-align: center;
 }
 
 .content-header {
 	border-bottom: 2px solid black;
 }
 
-.items p {
-	text-align: center;
+.form-header {
+	border-bottom: 2px solid black;
+}
+
+.form-submit {
+	background-color: #dee7ec;
+	color: black;
+}
+
+.form {
+	padding-top: 100px;	
+}
+
+input, textarea {
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 20px;
+  font-size: 18px;
+  border: 1px solid #dee7ec;
 }
