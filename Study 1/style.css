@@ -40,5 +40,9 @@ li {
 }
 
 .footer-list li {
-	padding-bottom: 20px
+	padding-bottom: 20px;
+}
+
+.container {
+	font-size: 30px;
 }
