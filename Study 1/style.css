@@ -34,7 +34,7 @@ li {
 
 .footer {
 	background-color: #2f5167;
-	height: 90px;
+	height: 120px;
 	color: #fff;
 	padding: 40px;
 }
@@ -43,6 +43,37 @@ li {
 	padding-bottom: 20px;
 }
 
-.container {
-	font-size: 30px;
+.main {
+	padding: 100px 70px;
+}
+
+.contents {
+	height: 500px;
+}
+
+span {
+	color: red;
+}
+
+.container h1 {
+	font-size: 140px;
+	margin-top: -100px;
+}
+
+.container h2 {
+	font-size: 60px;
+	margin-top: -100px;
+}
+
+.items {
+	float: left;
+	margin: 20px;
+}
+
+.content-header {
+	border-bottom: 2px solid black;
+}
+
+.items p {
+	text-align: center;
 }
