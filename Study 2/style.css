@@ -35,3 +35,31 @@ a {
 	margin-bottom: 3px;
 }
 
+.btn {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	padding-left: 24px;
+	padding-right: 24px;
+	color: #fff;
+	display: inline-block;
+	opacity: 0.8;
+}
+
+.signup {
+	background-color: #239b76;
+}
+
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.btn-wrapper {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.btn-wrapper p {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
