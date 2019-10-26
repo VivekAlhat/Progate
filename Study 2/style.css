@@ -164,3 +164,9 @@ header {
 	text-align: center;
 	border-bottom: 1px solid #eee;
 }
+
+.message:active {
+	position: relative;
+	top: 7px;
+	box-shadow: none;
+}
